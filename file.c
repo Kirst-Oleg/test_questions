@@ -3,6 +3,7 @@
 int main(){
   char a="v";
   int b=256;
-  printf("Sum %i", a*b);
+  printf("Char: %c", a);
+  printf("Int %i", b);
   return 0;
 }
